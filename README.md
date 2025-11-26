@@ -7,7 +7,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmonixtechnologies&label=Profile%20views&color=0e75b6&style=flat" alt="devmonixtechnologies" /> </p>
 
-
+<!-- Neural Network Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmonixtechnologies" alt="devmonixtechnologies" /></a> </p>
