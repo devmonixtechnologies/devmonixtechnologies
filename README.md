@@ -7,14 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmonixtechnologies&label=Profile%20views&color=0e75b6&style=flat" alt="devmonixtechnologies" /> </p>
 
-<!-- Neural Network Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  
-  ![github-user-contribution](https://github.com/user-attachments/assets/1e2a1c13-c235-4348-85fc-ac9a6a8ffa26)
-</picture>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmonixtechnologies" alt="devmonixtechnologies" /></a> </p>
 
